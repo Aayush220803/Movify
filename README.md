@@ -1,4 +1,3 @@
-#Movify
 Movify is a content based movie recommender system using Machine Learning.This project aims to suggest personalized movie recommendations to users based on their preferences and historical data. The system utilizes machine learning algorithms and techniques to analyze user behavior, movie attributes, and patterns in order to generate accurate and relevant movie recommendations.
 
 The recommender system typically involves the following steps:
